@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PelumiIgun
 - 👀 I’m interested in Design
-- 🌱 I’m currently learning Design systems
-- 💞️ I’m looking to collaborate on Design systems
+- 🌱 Love Design systems
 - 📫 How to reach me ...
 
 <!---
